@@ -4,4 +4,6 @@ return [
 
     'api_key' => '',
 
+    'env' => '',
+
 ];
